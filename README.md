@@ -1,7 +1,7 @@
 # mobile-app
 For this submission I used Node.js + React and Cordova to launch app on an android phone I was also using Windows 11.
 I wasn't able to complete this test on time so the application does not fully function.
-I didn't get Cordova to work with the app either so I was not unable to test it on a mobile device.
+I didn't get Cordova to work with the app either so I was unable to test it on a mobile device.
 
 The only functionality of the app is to see a list of two contacts and their inforrmation. The buttons do not work.
 
