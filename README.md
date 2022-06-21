@@ -8,4 +8,4 @@ The only functionality of the app is to see a list of two contacts and their inf
 to run the app:
     1 you have to have both Node.js and React installed on your computer.
     2 open up the mobile-app folder in command prompt or powershell and type the command: "npm start".
-    3 your default browser should open up to the app.
+    3 your default browser should open up to the app on: "http//:localhost:3000".
